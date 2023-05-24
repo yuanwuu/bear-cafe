@@ -133,8 +133,11 @@ button, a.button {
 }
 
 button.btn-sm {
-  font-size: 1.5vmin;
-  padding: .6vmin .8vmin;
+  font-size: 1rem;
+  /* font-size: 1.5vmin; */
+  /* padding: .6vmin .8vmin; */
+  width: 100px;
+  height: 100px;
 }
 
 button.btn-xs {

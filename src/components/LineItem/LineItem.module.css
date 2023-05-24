@@ -29,4 +29,8 @@
     
     .LineItem button {
     margin: 0;
+    border: 1px solid green;
+    height: 20px;
+    width: 20px;
+    border-radius: 5px;
     }

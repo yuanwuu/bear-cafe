@@ -1,6 +1,6 @@
 import image from '../../assets/feature.png'
 import DrinkMenu from '../DrinkMenu/DrinkMenu';
-import LoginForm from '../LoginForm/LoginForm'
+// import LoginForm from '../LoginForm/LoginForm'
 import styles from './Feature.module.css'
 import { useNavigate } from 'react-router-dom';
 
@@ -15,7 +15,7 @@ export default function Feature () {
     return (
         <>
         <div className={styles.Feature}>
-            <img src={image} />
+            <img src={image} alt='#'/>
             <div className={styles.new}>
                 <h1>NEW RELEASE</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis.</p>

@@ -3,6 +3,9 @@
     list-style: none;
     padding: 0;
     font-size: 1.7vw;
+    display: flex;
+    flex-direction: column;
+
     }
     
     .CategoryList li {

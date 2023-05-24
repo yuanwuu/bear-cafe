@@ -1,8 +1,8 @@
 import React, { useRef } from 'react';
 import DrinkCustomization from '../../components/DrinkCustomization/DrinkCustomization';
 import Feature from '../../components/Feature/Feature';
-import NavBar from '../../components/NavBar/NavBar';
-import AuthPage from '../AuthPage/AuthPage';
+// import NavBar from '../../components/NavBar/NavBar';
+// import AuthPage from '../AuthPage/AuthPage';
 import styles from './Home.module.css';
 import { Link } from 'react-router-dom';
 
