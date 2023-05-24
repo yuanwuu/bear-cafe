@@ -23,6 +23,7 @@
     ·
     <a href="https://drive.google.com/file/d/1z86kvtVv4K3KwI6v1zVeN9ks0fDDiRD_/view?usp=sharing">Application Wireframe</a>
     ·
+    <a href="https://drive.google.com/file/d/1srn5DTzEO-FRWC87tY6aqmfSDxea6A5s/view?usp=sharing">ERD</a>
   </p>
 
 </div>
