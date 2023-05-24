@@ -1,0 +1,19 @@
+.DrinkCustomization {
+    border: 1px solid black;
+    width:100%;
+    height: 100vh;
+    padding:5% 10% 5% 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: black;
+}
+
+label {
+    font-size: 1.25rem;
+}
+
+select, option{
+    font-size: 1.15rem;
+    padding: 5px;
+}
