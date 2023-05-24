@@ -24,6 +24,7 @@
     <a href="https://drive.google.com/file/d/1z86kvtVv4K3KwI6v1zVeN9ks0fDDiRD_/view?usp=sharing">Application Wireframe</a>
     ·
   </p>
+
 </div>
 
 
@@ -63,7 +64,7 @@ First attempt to create a full MERN stack application that makes connections fro
 * [![MongoDB][MongoDB]][MongoDB-url]
 * [![Express][Express]][Express-url]
 * [![React][React.js]][React-url]
-* [![Node][Node.js][Node-url]
+* [![Node][Node.js]][Node-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
